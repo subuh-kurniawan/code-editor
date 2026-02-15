@@ -30,7 +30,22 @@ Schema Diagram Mockup: Alat untuk memvisualisasikan struktur tabel dan relasi (t
 
 4. 🔒 Keamanan & Kualitas Kode
 
-Code Security Scan Report: Fitur pemindaian keamanan kode terintegrasi untuk mengidentifikasi dan melaporkan potensi masalah (Critical, Medium, Total Issues).
+Code Security Scan Report: Fitur pemindaian keamanan kode terintegrasi untuk mengidentifikasi dan melaporkan potensi masalah (Critical, Medium, Total Issues).<img width="1893" height="890" alt="Screenshot 2026-02-15 10 42 03 PM" src="https://github.com/user-attachments/assets/d070725e-fe67-48f3-a367-d057add3bbd5" />
+<img width="1913" height="890" alt="Screenshot 2026-02-15 10 42 32 PM" src="https://github.com/user-attachments/assets/400476ba-1938-4c20-9a08-e13a9c78008a" />
+<img width="1913" height="890" alt="Screenshot 2026-02-15 10 42 47 PM" src="https://github.com/user-attachments/assets/0985c644-48b8-40b3-ae10-8a8bc1f07600" />
+<img width="1913" height="890" alt="Screenshot 2026-02-15 10 43 03 PM" src="https://github.com/user-attachments/assets/07ef12ad-8811-4e97-abdc-ddce3237f5b9" />
+<img width="1913" height="890" alt="Screenshot 2026-02-15 10 43 14 PM" src="https://github.com/user-attachments/assets/021ca5ed-0f2f-4705-a5c8-065a2b8be22c" />
+<img width="1913" height="890" alt="Screenshot 2026-02-15 10 43 35 PM" src="https://github.com/user-attachments/assets/712db5df-1849-44f2-8164-e4b4a242f5de" />
+<img width="1913" height="890" alt="Screenshot 2026-02-15 10 43 53 PM" src="https://github.com/user-attachments/assets/0afebcd4-4c93-401c-88b8-64be27861753" />
+<img width="1913" height="890" alt="Screenshot 2026-02-15 10 44 08 PM" src="https://github.com/user-attachments/assets/41632407-d5d6-42a2-ae32-1c013ef27be8" />
+<img width="1913" height="890" alt="Screenshot 2026-02-15 10 44 28 PM" src="https://github.com/user-attachments/assets/6ee2dd44-f330-4c50-8878-61293ba84bf0" />
+<img width="1912" height="890" alt="Screenshot 2026-02-15 10 44 48 PM" src="https://github.com/user-attachments/assets/402385ac-483c-4352-8e40-0a1417b5ce75" />
+<img width="1912" height="890" alt="Screenshot 2026-02-15 10 45 04 PM" src="https://github.com/user-attachments/assets/5019b439-60f6-4ea1-ae44-f39230a87fe0" />
+<img width="1912" height="890" alt="Screenshot 2026-02-15 10 45 33 PM" src="https://github.com/user-attachments/assets/f3df32c0-a9c6-4173-b09d-415192830e91" />
+<img width="1912" height="890" alt="Screenshot 2026-02-15 10 46 02 PM" src="https://github.com/user-attachments/assets/f8187541-e34a-41ac-913b-6139504f4e00" />
+<img width="1912" height="890" alt="Screenshot 2026-02-15 10 46 19 PM" src="https://github.com/user-attachments/assets/95007ca4-e683-47cf-afd1-184e2f43cea8" />
+<img width="1912" height="890" alt="Screenshot 2026-02-15 10 46 56 PM" src="https://github.com/user-attachments/assets/bb5f18c1-0efe-4c69-838e-758e6f613bb8" />
+
 Fokus Keamanan: Kode inti menunjukkan praktik seperti penggunaan Prepared Statement untuk mencegah SQL Injection.
 
 🛠️ Teknologi yang Digunakan
