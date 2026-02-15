@@ -930,7 +930,7 @@ elseif ($_POST['action'] == 'delete_all_history') {
                         <span class="text-[10px] font-black uppercase">External Module</span>
                         <button onclick="toggleIframeModal()"><i class="fas fa-times"></i></button>
                     </div>
-                    <iframe src="fo3.php" class="flex-1 border-none"></iframe>
+                    <iframe src="chat.php" class="flex-1 border-none"></iframe>
                 </div>
             </div>
 <div id="image-viewer" class="absolute inset-0 z-30 bg-slate-100/50 dark:bg-slate-900/50 backdrop-blur-xl hidden flex-col items-center justify-center p-12">
