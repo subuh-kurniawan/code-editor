@@ -4,8 +4,8 @@ include $_SERVER['DOCUMENT_ROOT'] . "/admin/fungsi/koneksi.php";
 // ==========================================
 // 1. KONFIGURASI
 // ==========================================
-$APP_USERNAME = 'subuhkurniawan'; 
-$APP_PASSWORD = 'admin123'; 
+$APP_USERNAME = 'USERNAME'; 
+$APP_PASSWORD = 'APSSWORD'; 
 
 
 // ==========================================
