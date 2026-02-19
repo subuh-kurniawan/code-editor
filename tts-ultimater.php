@@ -25,7 +25,7 @@ if ($sql && mysqli_num_rows($sql) > 0) {
 } else {
     // Fallback jika tidak ada API key di database (Ganti dengan kunci cadangan Anda)
     // HARUS ADA KUNCI DUMMY ATAU REAL DI SINI UNTUK APLIKASI BERJALAN
-    $apiKeysList[] = "AIzaSyAYYBCPplYs1pd3vqu5e13YsbF1hgQz8EY"; 
+    $apiKeysList[] = "APIKEY"; 
 }
 $apiKeyJson = json_encode($apiKeysList);
 
